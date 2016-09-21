@@ -1867,7 +1867,7 @@
 	}
 
 		#logo h1 {
-			background: #ff4486;
+			background: #3D4349; /*#ff4486;*/
 			color: #fff;
 			border-radius: 6px;
 			font-family: 'Oleo Script', serif;
@@ -2021,7 +2021,7 @@
 				margin-top: -0.5em;
 			}
 
-			#banner .button.alt {
+			#banner .button.last { /* .button.alt */
 				margin-bottom: 0;
 			}
 
